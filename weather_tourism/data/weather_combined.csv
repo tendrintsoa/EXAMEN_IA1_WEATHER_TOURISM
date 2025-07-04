@@ -1,0 +1,6 @@
+city,date,temperature,humidity,pressure,wind_speed,weather_description,tourism_score,visibility
+Paris,2025-07-03,28.18,56,1015,2.57,clear sky,91.5,10.0
+Tokyo,2025-07-03,29.01,77,1012,6.69,broken clouds,79.2,10.0
+Rio de Janeiro,2025-07-03,18.86,92,1024,4.47,overcast clouds,70.1,7.0
+New York,2025-07-03,22.72,90,1010,3.09,mist,77.3,9.656
+Sydney,2025-07-03,13.69,78,1002,10.8,light intensity shower rain,66.1,10.0

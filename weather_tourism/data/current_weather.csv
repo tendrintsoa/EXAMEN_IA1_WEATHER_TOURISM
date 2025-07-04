@@ -1,0 +1,6 @@
+city,date,temperature,humidity,pressure,wind_speed,weather_description,visibility
+Paris,2025-07-04,19.29,53,1029,3.09,clear sky,10.0
+Tokyo,2025-07-04,31.23,60,1006,8.23,broken clouds,10.0
+Rio de Janeiro,2025-07-04,17.53,94,1025,2.57,overcast clouds,6.0
+New York,2025-07-04,20.09,77,1015,1.79,clear sky,10.0
+Sydney,2025-07-04,14.05,70,1020,3.09,clear sky,10.0
